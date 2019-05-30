@@ -1,7 +1,11 @@
 package com.yidiandian;
 
 import java.sql.*;
-
+/**
+ *
+ * @author 凤凰[小哥哥]
+ * @version 1.0
+ */
 public class SqlUtils {
 
 	private static String url = "jdbc:mysql://localhost:3306";

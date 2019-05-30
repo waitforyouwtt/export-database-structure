@@ -1,7 +1,11 @@
 package com.yidiandian;
 
 import java.sql.*;
-
+/**
+ *
+ * @author 凤凰[小哥哥]
+ * @version 1.0
+ */
 public class OracleUtils {
 
 	private static String url = "jdbc:oracle:thin:@127.0.0.1:1521:ORCL";

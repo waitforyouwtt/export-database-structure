@@ -20,7 +20,7 @@ import java.util.Map;
 
 /**
  * 把数据库中的表结构导出word中
- * @author MOSHUNWEI
+ * @author 凤凰[小哥哥]
  * @version 1.0
  */
 public class App 

@@ -21,7 +21,11 @@ import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.*;
-
+/**
+ *
+ * @author 凤凰[小哥哥]
+ * @version 1.0
+ */
 public class MainController implements Initializable{
 
 	@FXML

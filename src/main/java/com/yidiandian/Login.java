@@ -7,6 +7,11 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
+/**
+ *
+ * @author 凤凰[小哥哥]
+ * @version 1.0
+ */
 public class Login extends Application{
 
 	@Override

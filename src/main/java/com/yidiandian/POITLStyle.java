@@ -2,7 +2,11 @@ package com.yidiandian;
 
 import com.deepoove.poi.data.style.Style;
 import com.deepoove.poi.data.style.TableStyle;
-
+/**
+ *
+ * @author 凤凰[小哥哥]
+ * @version 1.0
+ */
 public class POITLStyle {
 
 	public static Style getHeaderStyle(){

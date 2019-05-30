@@ -7,7 +7,11 @@ import javafx.scene.image.ImageView;
 
 import java.net.URL;
 import java.util.ResourceBundle;
-
+/**
+ *
+ * @author 凤凰[小哥哥]
+ * @version 1.0
+ */
 public class LoginController implements Initializable{
 
 	@FXML
